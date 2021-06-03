@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+biolife.kute-themes.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+biolife.kute-themes.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_d10ffa68b65ad451014a3d3b8a45d70e	a1435c56dae59cc532b4f6991d20eef5%7C%7C1622875968%7C%7C1622872368%7C%7C93b983d9d3f6c0aa3f28050a38af1b2b
+biolife.kute-themes.net	TRUE	/	FALSE	1999999999	yith_wcwl_session_d10ffa68b65ad451014a3d3b8a45d70e	%7B%22session_id%22%3A%22ea72ddd1990407e6a8110b13796fc164%22%2C%22session_expiration%22%3A1625295179%2C%22session_expiring%22%3A1625291579%2C%22cookie_hash%22%3A%2271588c5dddcc5149230d44282bde60b6%22%7D
+biolife.kute-themes.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	e156baa740069dad95af4c38960881b6
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	0ee520f4578ce3ea4407d76f31038f36
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZ1RW1ueHBVTW1wTWxvaUJRZHRJbGg0emlML1VlSkxqYlVBakpBcldiZEpFUTgrZGtjVlMvckV6MTZMTElva3pTcUNXNnh3Z1hKMTNRZGxMMTJWN3NmMDZaWEU4MUdyREd0SW44SHZzSXpzNnhXUVdqVjFWUmxyY0xXUmRQaXZSNzVSWXhIOUw2NXE5enV3aWJNZDhVaGc9PSZWaVBabWhKUWtodDVWTkJwVG9wQUM4RTlRRzg9
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	d53337ea-5565-4f85-97ce-ffec32878dd8"
+
